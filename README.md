@@ -1,4 +1,4 @@
-#-github.io/My-ToDo-List/
+My ToDo-List
 
 #octanet internship
 
